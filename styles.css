@@ -1,6 +1,9 @@
 .container {
     margin: auto;
     text-align: center;
+    background-color: #EFEFEF;
+    width: 600px;
+    height: 100vh;
 }
 
 label{
