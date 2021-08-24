@@ -30,7 +30,9 @@ button {
     border-radius: 0.5rem;
 
 }
-table {
+table, th, td {
     border: 1px solid black ;
     margin: auto;
+    border-collapse: collapse;
+    width: 600px;
 }
